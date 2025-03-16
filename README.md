@@ -1,2 +1,2 @@
-# Butterworth-low-pass
+# Butterwidth-low-pass
 Exp7
