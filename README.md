@@ -1,2 +1,2 @@
-# Butterwidth-low-pass
+# Butterwidth-Low-pass
 Exp7
